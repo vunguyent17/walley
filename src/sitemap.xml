@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.walley.cf/</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://www.walley.cf/about</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://www.walley.cf/blog</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://www.walley.cf/cart</loc>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>https://www.walley.cf/vi-da-khac-ten</loc>
+    <changefreq>daily</changefreq>
+  </url>
+</urlset>
