@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://www.walley.cf/sitemap.xml
+Sitemap: https://www.walley.cf/sitemap.xml
