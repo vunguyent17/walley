@@ -1,4 +1,4 @@
 # Redirects from what the browser requests to what we serve
 # http and https need separate rules if you don’t force_ssl!
-http://walley.cf/* https://www.walley.cf/:splat 301!
-https://walley.cf/* https://www.walley.cf/:splat 301!
+http://walley.cf/* https://www.walley.cf/:splat 200
+https://walley.cf/* https://www.walley.cf/:splat 200
